@@ -1,6 +1,6 @@
 # PlayWithMe
 
-This repository contains a collection of interactive scripts for immersive learning. Most of the scripts are slightly modified from examples I've used to build an intition for myself, my peers, and my students on a variety of concepts. 
+This repository contains a collection of interactive scripts for immersive learning. Most of the scripts are slightly modified from examples I've used to build an intuition for myself, my peers, and my students on a variety of concepts. 
 
 ### File Overview
 
